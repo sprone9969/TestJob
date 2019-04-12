@@ -81,6 +81,7 @@ class TableViewController: UITableViewController{
             
             //сохрание в бд начало
             self.save(name: cc.name)
+            //сохрание в бд конец
            
         }
         //парсим данные конец
